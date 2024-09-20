@@ -1,0 +1,12 @@
+vec1=c(1,2,3)
+vec1
+vec1=[2]=[3]
+vec1
+vec1=NULL
+vec1
+v1=seq(1,100,length.out=5)
+v1
+v2=seq(1,100,by=5)
+v2
+sum(v1)
+v2[4]

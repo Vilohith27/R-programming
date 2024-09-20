@@ -1,0 +1,17 @@
+a=3
+a
+class(a)
+typeof(a)
+a=2L
+class(a)
+typeof(a)
+b=4
+c=5
+d=b>c
+d
+l=3+4i
+class(l)
+typeof(l)
+k="hello"
+class(k)
+typeof(k)

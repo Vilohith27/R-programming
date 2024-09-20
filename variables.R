@@ -1,0 +1,10 @@
+a=3
+b<-7
+z=8
+a123=8
+.a_=123
+abc=7
+a.first_name="hello"
+b<<-5
+i<<-8
+ls()

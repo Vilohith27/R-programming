@@ -1,0 +1,19 @@
+?factor
+data=c("M","F","F","M","F")
+f
+f=factor(data)
+f
+f1=factor(data,levels=c("M","F","T"))
+f1
+f2=factor(data,levels=c("M","F","T"),
+          labels=c("male","female","Transgender"))
+f2
+f3=factor(data,levels=c("M","F","T"),
+          labels=c("male","female","Transgender"),
+          ordered=TRUE)
+f3
+is.factor(f3)
+f3[3]
+f3[3]="Transgender"
+f3
+ 
